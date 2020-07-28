@@ -1,0 +1,12 @@
+name: travel_bingo_generator
+title: Travel Bingo Generator
+username: c.umphlett@techsmith.com
+account: c.umphlett@techsmith.com
+server: rstudio.techsmith.com
+hostUrl: https://rstudio.techsmith.com/__api__
+appId: 15
+bundleId: 24
+url: https://rstudio.techsmith.com/content/15/
+when: 1595965529.18549
+asMultiple: FALSE
+asStatic: FALSE

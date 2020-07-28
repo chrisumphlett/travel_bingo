@@ -1,0 +1,12 @@
+name: travelbingo
+title: TravelBingo
+username: c.umphlett@techsmith.com
+account: c.umphlett@techsmith.com
+server: rstudio.techsmith.com
+hostUrl: https://rstudio.techsmith.com/__api__
+appId: 14
+bundleId: 21
+url: https://rstudio.techsmith.com/content/14/
+when: 1595878607.98445
+asMultiple: FALSE
+asStatic: FALSE
